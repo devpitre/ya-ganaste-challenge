@@ -9,7 +9,7 @@ Para instalar, sigue los siguientes pasos:
 1. Clonar el repositorio
 
 ```
-git clone https://github.com/usuario/myapp.git
+git clone https://github.com/devpitre/ya-ganaste-challenge
 ```
 
 2. Instalar dependencias
@@ -43,7 +43,7 @@ yarn android
 
 ### Test Unitarios
 
-Esta app incluye tests unitarios escritos con Jest y (Testing Library)[https://testing-library.com/]. Para ejecutar los tests, ejecuta el siguiente comando:
+Esta app incluye tests unitarios escritos con Jest y [Testing Library](https://testing-library.com). Para ejecutar los tests, ejecuta el siguiente comando:
 
 ```
 yarn test
